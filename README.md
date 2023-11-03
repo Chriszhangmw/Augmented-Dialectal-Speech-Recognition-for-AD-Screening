@@ -19,7 +19,7 @@ By combining ASR and NLP technologies, our project seeks to advance the accuracy
 |----------|----------|----------|----------|----------|----------|
 | LibriSpeech | English | 1000 hours | Yes | [Click Me](https://www.openslr.org/12) | 16k |
 | B-NSA Audio | English | 394 | No | [Click Me](https://example.com) | 16k |
-| C-NA | Chinese | 20 hours | No | [Click Me](https://example.com) | 16k6 |
+| C-NA | Chinese | 20 hours | No | [Click Me](https://example.com) | 16k |
 | AISHELL-1  | Chinese | 178 hours | Yes | [Click Me](https://www.openslr.org/33/) | 16k |
 | C-NSA Audio | Chinese | 306 samples | No | [Click Me](https://example.com) | 16k |
 | B-NSA Text  | English | 384 | No | [Click Me](https://example.com) | 16k |
