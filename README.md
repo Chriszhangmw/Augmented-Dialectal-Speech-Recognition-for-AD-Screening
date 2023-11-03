@@ -15,17 +15,16 @@ By combining ASR and NLP technologies, our project seeks to advance the accuracy
 
 ### Data set description
 
-| Header 1 | Header 2 | Header 3 | Header 4 | Header 5 | Header 6 |
+| Data name | Language | Duration/Number | Open Source | Link | Frequency |
 |----------|----------|----------|----------|----------|----------|
-| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 | Row 1, Col 4 | Row 1, Col 5 | Row 1, Col 6 |
-| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 | Row 2, Col 4 | Row 2, Col 5 | Row 2, Col 6 |
-| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 | Row 3, Col 4 | Row 3, Col 5 | Row 3, Col 6 |
-| Row 4, Col 1 | Row 4, Col 2 | Row 4, Col 3 | Row 4, Col 4 | Row 4, Col 5 | Row 4, Col 6 |
-| Row 5, Col 1 | Row 5, Col 2 | Row 5, Col 3 | Row 5, Col 4 | Row 5, Col 5 | Row 5, Col 6 |
-| Row 6, Col 1 | Row 6, Col 2 | Row 6, Col 3 | Row 6, Col 4 | Row 6, Col 5 | Row 6, Col 6 |
-| Row 7, Col 1 | Row 7, Col 2 | Row 7, Col 3 | Row 7, Col 4 | Row 7, Col 5 | Row 7, Col 6 |
-| Row 8, Col 1 | Row 8, Col 2 | Row 8, Col 3 | Row 8, Col 4 | Row 8, Col 5 | Row 8, Col 6 |
-| Row 9, Col 1 | Row 9, Col 2 | Row 9, Col 3 | Row 9, Col 4 | Row 9, Col 5 | Row 9, Col 6 |
+| LibriSpeech | English | 1000 hours | Yes | [Click Me](https://www.openslr.org/12) | 16k |
+| B-NSA Audio | English | 394 | No | [Click Me](https://example.com) | 16k |
+| C-NA | Chinese | 20 hours | No | [Click Me](https://example.com) | 16k6 |
+| AISHELL-1  | Chinese | 178 hours | Yes | [Click Me](https://www.openslr.org/33/) | 16k |
+| C-NSA Audio | Chinese | 306 samples | No | [Click Me](https://example.com) | 16k |
+| B-NSA Text  | English | 384 | No | [Click Me](https://example.com) | 16k |
+| Chinese-NSA | Chinese | 100 | No | [Click Me](https://example.com) | 16k |
+| CQ-NSA Tex | Chinese | 490000 | No | [Click Me](https://example.com) | 16k |
 
 
 
