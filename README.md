@@ -15,14 +15,15 @@ By combining ASR and NLP technologies, our project seeks to advance the accuracy
 
 ### Data set description
 
-|                   |         |                 |          |             |            |           |                      |
-|:------------------:|:-------:|:---------------:|:--------:|:-----------:|:----------:|:---------:|:--------------------:|
-|                   |         | Audio           |          |             | Text       |           |                      |
-| **English**       | Name    | Duration/Number | Frequency | Open Source | Name       | Number    | Open Source           |
-|                   |         |                 |          |             |            |           |                      |
-|                   | LibriSpeech | 1000 hours | 16K Hz | Yes | B-NSA Text | 384 | No |
-|                   | B-NSA Audio | 394 | 16K Hz | No | | | |
-| **Chinese** | C-NA | 20 hours | 16K Hz | No | Chinese-NSA | 100 | No |
-| | AISHELL-1 | 178 hours | 16K Hz | Yes | CQ-NSA Text | 490,000 | |
-| | C-NSA Audio | 306 samples | 16K Hz | No | | | |
+|                  |         |               |         |            |            |        |                 |
+|:----------------:|:-------:|:-------------:|:-------:|:----------:|:----------:|:------:|:---------------:|
+|                  |         | **Audio**     |         |            | **Text**   |        |                 |
+| **English**      | Name    | Duration/Number | Frequency | Open Source | Name       | Number | Open Source     |
+|                  |         |                 |           |            |            |        |                 |
+|                  | LibriSpeech | 1000 hours | 16K Hz | Yes | B-NSA Text | 384 | No |
+|                  | B-NSA Audio | 394 | 16K Hz | No | | | |
+| **Chinese**      | C-NA | 20 hours | 16K Hz | No | Chinese-NSA | 100 | No |
+|                  | AISHELL-1 | 178 hours | 16K Hz | Yes | CQ-NSA Text | 490,000 | |
+|                  | C-NSA Audio | 306 samples | 16K Hz | No | | | |
+
 
