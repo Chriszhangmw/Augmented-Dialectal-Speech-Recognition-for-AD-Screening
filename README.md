@@ -27,4 +27,21 @@ By combining ASR and NLP technologies, our project seeks to advance the accuracy
 | CQ-NSA Tex | Chinese | 490000 | No | [Click Me](https://example.com) | 16k |
 
 
+### Start
+
+#### Stage 1: fine tuning 
+
+
+* training base model based on aishell-1 dataset: bash run.sh --stage 4 --stop-stage 6
+
+* fine tuning our dataset: bash aiadrun.sh  --stage 4 --stop-stage 6
+
+
+#### Stage 2: training MRC
+
+
+* set variables: TF_KERAS=1 python mrc_mlm.py
+
+
+
 
