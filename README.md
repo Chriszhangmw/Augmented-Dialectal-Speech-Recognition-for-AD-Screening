@@ -18,13 +18,13 @@ By combining ASR and NLP technologies, our project seeks to advance the accuracy
 | Data name | Language | Duration/Number | Open Source | Link | Frequency |
 |----------|----------|----------|----------|----------|----------|
 | LibriSpeech | English | 1000 hours | Yes | [Click Me](https://www.openslr.org/12) | 16k |
-| B-NSA Audio | English | 394 | No | [Click Me](https://example.com) | 16k |
-| C-NA | Chinese | 20 hours | No | [Click Me](https://example.com) | 16k |
+| B-NSA Audio | English | 197 | No | [Click Me](https://drive.google.com/drive/folders/1cOpW4RbWA4Qm5BqpvaXG11S1XtvbwgE2) | 16k |
+| C-NA | Chinese | 20 hours | No | [Click Me](https://drive.google.com/drive/folders/1wkcJF8DuLq7nHhc6rhU8enA5qQKbfQWXm) | 16k |
 | AISHELL-1  | Chinese | 178 hours | Yes | [Click Me](https://www.openslr.org/33/) | 16k |
-| C-NSA Audio | Chinese | 306 samples | No | [Click Me](https://example.com) | 16k |
-| B-NSA Text  | English | 384 | No | [Click Me](https://example.com) | 16k |
-| Chinese-NSA | Chinese | 100 | No | [Click Me](https://example.com) | 16k |
-| CQ-NSA Tex | Chinese | 490000 | No | [Click Me](https://example.com) | 16k |
+| C-NSA Audio | Chinese | 306 samples | No | [Click Me](https://drive.google.com/drive/folders/1MEo6OL5VP6DhsJrhrvvYMP7ebiFf7jw4) | 16k |
+| B-NSA Text  | English | 197 | No | [Click Me](https://drive.google.com/drive/folders/1bj7YnU64LOfZYCkrCSd-rSfVmyJWNlgF) | 16k |
+| Chinese-NSA | Chinese | 100 | No | [Click Me](https://drive.google.com/drive/folders/1vVbvaSkAw7ITi8Y0VB5_7E5mzAIQhnIl) | 16k |
+| CQ-NSA Tex | Chinese | 490000 | No | [Click Me](https://drive.google.com/drive/folders/16z5a4VhYN3zj48Q0K46vp_RgvkOJZ7Uk) | 16k |
 
 
 ### Start
